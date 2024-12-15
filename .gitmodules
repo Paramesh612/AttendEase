@@ -1,0 +1,3 @@
+[submodule "Attendance-Manager-Backend"]
+	path = Attendance-Manager-Backend
+	url = https://github.com/Sanjeev22A/Attendance-Manager-Backend
